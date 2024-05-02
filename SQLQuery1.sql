@@ -1,0 +1,1 @@
+﻿UPDATE Login SET Pontos = 0 WHERE Pontos = (SELECT Pontos FROM Login WHERE Ranking = 'Ouro')

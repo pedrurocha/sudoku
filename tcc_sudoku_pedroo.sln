@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcc_sudoku_pedroo", "tcc_sudoku_pedroo\tcc_sudoku_pedroo.csproj", "{57CBC1D4-2115-4C79-BBEF-2B453CC40A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57CBC1D4-2115-4C79-BBEF-2B453CC40A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CBC1D4-2115-4C79-BBEF-2B453CC40A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CBC1D4-2115-4C79-BBEF-2B453CC40A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CBC1D4-2115-4C79-BBEF-2B453CC40A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13DDA901-3E10-49FB-ACA1-93CA37D93EC4}
+	EndGlobalSection
+EndGlobal

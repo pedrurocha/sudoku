@@ -1,0 +1,1 @@
+﻿SELECT Nome, Ranking, Pontos FROM Login WHERE Ranking = 'Bronze';
